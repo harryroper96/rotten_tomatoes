@@ -27,7 +27,7 @@ Alongside the README, this repository contains the notebook in which the data wa
 
 ## Interpretation and Discussion of Results <a name="results"></a>
 
-A discussion of the results of the analysis can be found in the Medium post available here.
+A discussion of the results of the analysis can be found in the Medium post available [here](https://harryr96.medium.com/what-makes-for-a-good-movie-8e10896e0f1b).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
